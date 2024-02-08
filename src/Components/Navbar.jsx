@@ -26,7 +26,7 @@ const Navbar = () => {
   }
   return (
     <nav className='navbar'>
-        <Link to="/"><h4 className='logoName'>Khao Piyo<span>🧑‍🍳</span></h4></Link>
+        <Link to="/"><h4 className='logoName'>KhaLo<span>🧑‍🍳</span></h4></Link>
         <main className='main'>
         <img className='close'  onClick={closefun} src={close} alt="" />
             <Link onClick={closefun} className='nava'  to="/">Home</Link>

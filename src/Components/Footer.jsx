@@ -17,7 +17,7 @@ const footer = () => {
           <br />
         </div>
         <div className="end">
-          Copyright © www.KhaoPiyo.com all rights are reserved!!!
+          Copyright © www.KhaLo.com all rights are reserved!!!
         </div>
         <div className="social">
           <AiFillFacebook className="scoialImg" />

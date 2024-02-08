@@ -49,7 +49,7 @@ const Home = () => {
     <div data-aos="fade-right"  className="dish">
       <div className="dishCont">
       <h3>Pizza</h3>
-        Indulge in vegetarian pizza perfection at Khao Piyo. From the classic Veggie Supreme to the savory Margherita, our pizzas are renowned for their deliciousness. The best part? We offer convenient home delivery, so you can enjoy these delectable pizzas in the comfort of your own space. Satisfy your pizza cravings the vegetarian way at Khao Piyo.
+        Indulge in vegetarian pizza perfection at KhaLo. From the classic Veggie Supreme to the savory Margherita, our pizzas are renowned for their deliciousness. The best part? We offer convenient home delivery, so you can enjoy these delectable pizzas in the comfort of your own space. Satisfy your pizza cravings the vegetarian way at KhaLo.
         <Link to='/menu/pizza' className='menulink'>Order Now</Link>
         </div>
       <video className='dishVideo' src={PizzaVideo}  autoPlay={true} muted={true} loop={true}/>
@@ -58,14 +58,14 @@ const Home = () => {
       <video className='dishVideo' src={BurgerVideo}  autoPlay={true} muted={true} loop={true}/>
       <div className="dishCont">
       <h3>Burger</h3>
-      Discover vegetarian burger bliss at Khao Piyo. From classic Veggie Cheeseburgers to zesty Spicy Chickpea Burgers, we offer a delightful range of flavors. Best of all, we provide home delivery, making it easy to savor these delicious vegetarian burgers in the comfort of your home. Order now and experience the vegetarian taste sensation at Khao Piyo!
+      Discover vegetarian burger bliss at KhaLo. From classic Veggie Cheeseburgers to zesty Spicy Chickpea Burgers, we offer a delightful range of flavors. Best of all, we provide home delivery, making it easy to savor these delicious vegetarian burgers in the comfort of your home. Order now and experience the vegetarian taste sensation at KhaLo!
         <Link to='/menu/burger' className='menulink'>Order Now</Link>
         </div>
     </div>
     <div data-aos="fade-right" className="dish">
       <div className="dishCont">
       <h3>Cake</h3>
-      Life is sweeter with Khao Piyo's exquisite vegetarian cakes. Each slice, whether it's the classic Chocolate Truffle or the exotic Mango Delight, is a celebration of flavor. And the best part? Our cakes are available for home delivery, making it easy to indulge in vegetarian sweetness. Mark special moments or simply satisfy your sweet tooth with our delightful cakes.
+      Life is sweeter with KhaLo's exquisite vegetarian cakes. Each slice, whether it's the classic Chocolate Truffle or the exotic Mango Delight, is a celebration of flavor. And the best part? Our cakes are available for home delivery, making it easy to indulge in vegetarian sweetness. Mark special moments or simply satisfy your sweet tooth with our delightful cakes.
         <Link to='/menu/cake' className='menulink'>Order Now</Link>
         </div>
       <video className='dishVideo' src={CakeVideo}  autoPlay={true} muted={true} loop={true}/>

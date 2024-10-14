@@ -3,7 +3,7 @@ import {Link, Outlet} from "react-router-dom";
 import "../Style/menunav.css"
 const Menunav = () => {
   useEffect(() => {
-    document.title="KhaoPiyo | Menu"
+    document.title="KhaLo | Menu"
   }, [])
   return (
     <>

@@ -11,8 +11,8 @@ const footer = () => {
       <div className="footerdiv">
         <div className="dev">
           <span>Developer-Shashank_Shekhar</span>
-          <br />
-          <br />
+          <br/>
+          <br/>
           <span>Location-Raipur,India</span>
           <br />
         </div>
@@ -22,10 +22,10 @@ const footer = () => {
         <div className="social">
           <AiFillFacebook className="scoialImg" />
           <span className="scoialWord">Facebook</span>
-          <br />
+          <br/>
           <AiFillLinkedin className="scoialImg" />
           <span className="scoialWord">Linkedin</span>
-          <br />
+          <br/>
           <AiFillInstagram className="scoialImg" />
           <span className="scoialWord">Instagram</span>
           <br />

@@ -48,7 +48,7 @@ const Cart = () => {
       })
   }
   useEffect(() => {
-   document.title="KhaoPiyo | Cart"
+   document.title="KhaLo | Cart"
   },[])
   
   return (
@@ -69,7 +69,7 @@ const Cart = () => {
     <h2>Tax ₹{tax}</h2> 
     <h2>Total Amount ₹{totalAmount}</h2>
     {
-      cartitem.length>0?UserLogin===1?<Link className='chechout' to="/checkout">Checkout</Link>:<Link to="/LogInUser" className='chechout'>Please Login</Link>:<span></span>
+      <Link className='chechout' to="/checkout">Checkout</Link>
      
     }
   </div>
